@@ -1,5 +1,4 @@
-﻿using RestWithASPNET.Controllers.Model;
-using RestWithASPNET.Model;
+﻿using RestWithASPNET.Model;
 
 namespace RestWithASPNET.Services {
     public interface IPersonService {
